@@ -1,0 +1,12 @@
+name: tech-frontiers
+channels:
+  - defaults
+dependencies:
+  - _pytorch_select=0.1=cpu_0
+  - matplotlib=3.3.4=py39hecd8cb5_0
+  - numpy=1.19.2=py39he57783f_0
+  - pandas=1.2.4=py39h23ab428_0
+  - pytorch=1.7.1=cpu_py39h7e2095a_0
+  - scikit-learn=0.24.2=py39hb2f4e1b_0
+  - scipy=1.6.2=py39h2515648_0
+  - seaborn=0.11.1=pyhd3eb1b0_0
