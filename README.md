@@ -27,4 +27,4 @@ Access course content for Data Science [here](/data-science)
 
 ## Machine Learning Course
 
-Access course content for Machine Learning [here](/data-science)
+Access course content for Machine Learning [here](/machine-learning)
