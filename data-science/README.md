@@ -7,7 +7,7 @@
 ### Day 1
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
-| Morning Coffee| 7/12 | 8:30-9AM | | [fake link](#)|
+| Morning Coffee| 7/12 | 8:30-9AM | | |
 | Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [fake link](#)|
 | Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [fake link](#)|
 | Morning Break | 7/12 | 10:30-10:45AM   |  |  |
@@ -22,7 +22,7 @@
 ### Day 2
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
-| Morning Coffee| 7/13 | 8:30-9AM      | | [fake link](#)|
+| Morning Coffee| 7/13 | 8:30-9AM      | |  |
 | Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | [fake link](#)|
 | Morning Break | 7/13 | 10:30-10:45AM |  |  |
 | Module 5      | 7/13 | 10:45-12:15PM | **Linear and Logistic Regression Methods** | [fake link](#)|
