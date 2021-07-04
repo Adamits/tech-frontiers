@@ -9,7 +9,7 @@
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/12 | 8:30-9AM | | [fake link](#)|
 | Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [fake link](#)|
-| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Environments** | [fake link](#)|
+| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [fake link](#)|
 | Morning Break | 7/12 | 10:30-10:45AM   |  | [fake link](#) |
 | Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | [fake link](#)|
 | Lunch         | 7/12 | 12:15-1:15PM |     | [fake link](#) |
