@@ -8,12 +8,12 @@
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/12 | 8:30-9AM | | |
-| Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [slides](module0_dsoverview_slides.pdf)|
+| Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [intro slides](module0_dsoverview_slides.pdf)|
 | Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [fake link](#)|
 | Morning Break | 7/12 | 10:30-10:45AM   |  |  |
 | Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | [fake link](#)|
 | Lunch         | 7/12 | 12:15-1:15PM |     |  |
-| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [fake link](#) |
+| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](#) |
 | Afternoon Break | 7/12 | 3:15-3:30AM   |  |  |
 | Ethics        | 7/12 | 3:30-4:30PM      |    **Ethical Issues in Data Science** | [fake link](#) |
 | Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** | [fake link](#) |
