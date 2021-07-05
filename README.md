@@ -54,7 +54,29 @@ pandas
 matplotlib
 scipy
 seaborn
+jupyter
+plotly
+nbformat
 ```
+
+Note that by installing jupyter inside your conda environment, your jupyter notebooks kernel should be able to access all of your python packages. Alternatively, you can install your conda environment as a specific kernel for jupyter to use, as below.
+
+#### Accessing your conda environment from a jupyter notebook
+
+1. Install ipykernal:
+
+```bash
+conda install -c anaconda ipykernel
+```
+
+2. 'Install' the environment as a kernel:
+
+```bash
+python -m ipykernel install --user --name=tech-frontiers
+```
+3. Now you can select the kernel by the same name in your notebook by navigating to 'kernel' > 'Change kernel'
+
+![select kernel](img/select_jupyter_kernel.png "Change Kernel")
 
 
 ## Data Science Course
