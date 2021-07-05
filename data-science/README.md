@@ -13,7 +13,7 @@
 | Morning Break | 7/12 | 10:30-10:45AM   |  |  |
 | Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | |
 | Lunch         | 7/12 | 12:15-1:15PM |     |  |
-| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb) |
+| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb); [solutions](module3_data_visualization_solns.ipynb) |
 | Afternoon Break | 7/12 | 3:15-3:30AM   |  |  |
 | Ethics        | 7/12 | 3:30-4:30PM      |    **Ethical Issues in Data Science** |  |
 | Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** |  |
@@ -23,7 +23,7 @@
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/13 | 8:30-9AM      | |  |
-| Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | |
+| Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | [notebook](module4_clustering.ipynb); [solutions](module4_clustering_solns.ipynb) |
 | Morning Break | 7/13 | 10:30-10:45AM |  |  |
 | Module 5      | 7/13 | 10:45-12:15PM | **Linear and Logistic Regression Methods** | |
 | Lunch         | 7/13 | 12:15-1:15PM  |     |  |
