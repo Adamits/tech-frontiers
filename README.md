@@ -32,7 +32,7 @@ You can activate your anaconda environment, which will use the anaconda python d
 conda activate myenv
 ```
 
-If you installed form the environment.yml, the environment will be called `tech-frontiers` - so it can be activated with `conda activate tech-frontiers`. Alternatively, you can create create an anaconda environment with
+If you installed from the environment.yml, the environment will be called `tech-frontiers` - so it can be activated with `conda activate tech-frontiers`. Alternatively, you can create create an anaconda environment with
 
 ```bash
 conda create --name env-name python=3.9
