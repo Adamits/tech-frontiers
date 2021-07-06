@@ -6,7 +6,7 @@ Now that you have installed anaconda and are able to create and open jupyter not
 ## Schedule
 
 ### Day 1
-|               | Data  | Time| Content| Links |
+|               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/12 | 8:30-9AM | | |
 | Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [intro slides](module0_dsoverview_slides.pdf)|
@@ -19,6 +19,7 @@ Now that you have installed anaconda and are able to create and open jupyter not
 | Ethics        | 7/12 | 3:30-4:30PM      |    **Ethical Issues in Data Science** |  |
 | Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** |  |
 | AI Institute  | 7/12 | 5-5:30PM     | **Information on CU Boulder's AI Institute** |  |
+| Reception     | 7/12 | 5:30-6:30PM     |  |  |
 
 ### Day 2
 |               | Data  | Time| Content| Links |

@@ -4,7 +4,10 @@ This is the course website for the CU Boulder [Tech Frontiers](https://www.color
 
 ## Getting Started
 
-Before arriving for class, you should get your environment setup on your computer and ensure that you can run python, and the required packages. To start, you can `clone` this repository by, from your terminal, running
+Before arriving for class, you should get your environment setup on your computer and ensure that you can run python, and the required packages. If you are an experienced Python user, you may wish to skim or skip these materials. You will still want to check the [required packages](#required-packages)
+
+
+To start, you can `clone` this repository by, from your terminal, running
 
 ```bash
 git clone https://gitfront.io/r/adamits/0f5439b554e8919a518458370b4e89f937340ea7/tech-frontiers.git
@@ -16,7 +19,9 @@ If you encounter any issues while following these steps, you can contact adam.wi
 
 
 ### Install anaconda
-Anaconda is the package manager we will be using to download our python packages. Note that installing anaconda should also install python. When you activate the anaconda environment, you should have access to the python version installed with it. In order to install anaconda:
+Anaconda is the package manager we will be using to download our python packages. Note that installing anaconda should also install python. When you activate the anaconda environment, you should have access to the python version installed with it. In order to install anaconda follow the links below.
+
+The links include optional instructions for pycharm users. If you do not use the pycharm IDE - you can ignore this part!
 
  - For **Windows** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/windows/).
  - For **macOS** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/mac-os/). If you do not have permission to install in the default directory, your user's home directory should work fine.
@@ -56,8 +61,7 @@ Or if conda does not find the package:
 conda install -c conda-forge package-name
 ```
 
-The required packages for this course are listed below
-
+##### Required Packages
 ```
 pytorch
 numpy
@@ -75,6 +79,7 @@ hmmlearn
 Note that by installing jupyter inside your conda environment, your jupyter notebooks kernel should be able to access all of your python packages. Alternatively, you can install your conda environment as a specific kernel for jupyter to use, as below.
 
 ### Accessing your conda environment from a jupyter notebook
+*This section is optional, and should only be necessary if jupyter is installed outside of your conda environment*
 
 1. Install ipykernal:
 ```bash
@@ -108,7 +113,7 @@ This will launch an interface in your browser similar to below
 
 ![select kernel](img/jupyter_homepage.png "Notebooks Home")
 
-Simply `Run` the notebook, and if you get no error messages - your environment is working!
+Simply `Run` the notebook, and if you get no error messages - your environment is working! If instead you receive an error message, you should try installing the package from the message again, and restart your notebook. If it still fails, or you do not know what to do, contact adam.wiemerslage@colorado.edu.
 
 ## Data Science Course
 

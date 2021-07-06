@@ -16,7 +16,7 @@ You can also go ahead and download the course Pre-Module materials, including th
 ## Schedule
 
 ### Day 1
-|               | Data  | Time| Content| Links |
+|               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/15 | 8:30-9AM | | [fake link](#)|
 | Module 1      | 7/15 | 9-10:30AM | **Introduction And Probability Theory** | |
@@ -28,6 +28,7 @@ You can also go ahead and download the course Pre-Module materials, including th
 | Ethics        | 7/15 | 3:30-4:30PM      |    **Ethics in Machine Learning** |  |
 | Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** |  |
 | AI Institute  | 7/15 | 5-5:30PM     | **Information on CU Boulder's AI Institute** |  |
+| Reception     | 7/15 | 5:30-6:30PM  |  |  |
 
 ### Day 2
 |               | Data  | Time| Content| Links |
