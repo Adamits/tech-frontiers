@@ -2,12 +2,16 @@
 
 ## Getting Started
 
-## Schedule
+Now that you have installed anaconda and are able to create and open jupyter notebooks, you can view the Pre-Module content to get comfortable with using Python and some of the packages we will leverage throughout the course.
 
+* [Part 1 Video](https://drive.google.com/file/d/1QrwWv3gbD4sDRFAfZeNco6DMfZejXR-i/view?usp=sharing)
+* [Part 2 Video](https://drive.google.com/file/d/1mr7W2qtyi29PIq8wKgq7mY1tZXvNJCA-/view?usp=sharing)
+* [Part 3 Video](https://drive.google.com/file/d/1YNcHMFdM5e9hHwRHhGSot042qQdb954k/view?usp=sharing)
+* [Part 3 Data (testScores.csv)](testScores.csv)
 
-# Data Science
+You can follow through the build up of some basic coding commands in the slides, these commands are written directly in the jupyter notebook. To run the jupyter notebook, start at the top and press the "Run" button or SHIFT + ENTER to compile each cell successively. You will need to have the file testScores.csv file in the same folder as premodule.ipynb.
 
-## Getting Started
+You can also go ahead and download the course Pre-Module materials, including the code generated: [slides](0-Python1Hour.pptx); [notebook](PythonHour.ipynb). 
 
 ## Schedule
 
