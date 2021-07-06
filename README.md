@@ -71,18 +71,16 @@ Note that by installing jupyter inside your conda environment, your jupyter note
 ### Accessing your conda environment from a jupyter notebook
 
 1. Install ipykernal:
-
 ```bash
 conda install -c anaconda ipykernel
 ```
 
 2. 'Install' the environment as a kernel:
-
 ```bash
 python -m ipykernel install --user --name=tech-frontiers
 ```
-3. Now you can select the kernel by the same name in your notebook by navigating to 'kernel' > 'Change kernel'
 
+3. Now you can select the kernel by the same name in your notebook by navigating to 'kernel' > 'Change kernel'
 ![select kernel](img/select_jupyter_kernel.png "Change Kernel")
 
 
