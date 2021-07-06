@@ -1,7 +1,7 @@
 # Data Science
 
 ## Getting Started
-Now that you have installed anaconda and are able to crate and open jupyter notebooks, go ahead and download the course premodule materials: [slides](premodule_slides.pdf); [notebook](premodule.ipynb); and [example data](testScores.csv). You can follow through the build up of some basic coding commands in the slides, these commands are written directly in the jupyter notebook. To run the jupyter notebook, start at the top and press SHIFT + ENTER to compile each cell successively. You will need to have the file testScores.csv file in the same folder as premodule.ipynb.
+Now that you have installed anaconda and are able to create and open jupyter notebooks, go ahead and download the course premodule materials: [slides](premodule_slides.pdf); [notebook](premodule.ipynb); and [example data](testScores.csv). You can follow through the build up of some basic coding commands in the slides, these commands are written directly in the jupyter notebook. To run the jupyter notebook, start at the top and press SHIFT + ENTER to compile each cell successively. You will need to have the file testScores.csv file in the same folder as premodule.ipynb.
 
 ## Schedule
 
