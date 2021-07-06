@@ -6,6 +6,7 @@ This is the course website for the CU Boulder [Tech Frontiers](https://www.color
 
 Before arriving for class, you should get your environment setup on your computer and ensure that you can run python, and the required packages. If you are an experienced Python user, you may wish to skim or skip these materials. You will still want to check the [required packages](#required-packages)
 
+We assume setup is done via the terminal, or windows command line. If you are on windows, and are unsure how to access this, [here](https://www.computerhope.com/issues/chusedos.htm) is a resource with some basic command-line help. For mac users, [here](https://www.businessinsider.com/how-to-open-terminal-on-mac) is an article with some terminal basics. If you are a linux user, we assume you are already familiar with the terminal basics.
 
 To start, you can `clone` this repository by, from your terminal, running
 
