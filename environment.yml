@@ -14,3 +14,4 @@ dependencies:
   - nbformat=5.1.3=pypi_0
   - jupyter_client=5.3.3=py_0
   - jupyter_core=4.5.0=py_0
+  - hmmlearn=0.2.4=py39hbaf7cf3_2

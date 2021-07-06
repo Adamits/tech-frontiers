@@ -9,14 +9,14 @@ Before arriving for class, you should get your environment setup on your compute
 If you encounter any issues while following these steps, you can contact adam.wiemerslage@colorado.edu for help.
 
 
-#### Install anaconda
+### Install anaconda
 Anaconda is the package manager we will be using to download our python packages. Note that installing anaconda should also install python. When you activate the anaconda environment, you should have access to the python version installed with it. In order to install anaconda:
 
  - For **Windows** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/windows/).
  - For **macOS** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/mac-os/). If you do not have permission to install in the default directory, your user's home directory should work fine.
  - For **Linux** users, follow instructions [here](https://docs.anaconda.com/anaconda/install/linux/)
 
-#### Install python packages
+### Install python packages
 Our instructions assume that you are using anaconda from the terminal (or windows command line).
 
 We have provided an environment.yml file that contains all of the packages you will need for both courses. In order to create an anaconda environment for managing packages, and install packages, you can run:
@@ -25,7 +25,7 @@ We have provided an environment.yml file that contains all of the packages you w
 conda env create --file environment.yml
 ```
 
-#### Activate your anaconda environment
+### Activate your anaconda environment
 You can activate your anaconda environment, which will use the anaconda python distribution, and point to all of the packages installed therein, with the following command:
 
 ```bash
@@ -44,6 +44,12 @@ This will create an environment called `env-name`, and install python version 3.
 conda install package-name
 ```
 
+Or if conda does not find the package:
+
+```bash
+conda install -c conda-forge package-name
+```
+
 The required packages for this course are listed below
 
 ```
@@ -57,11 +63,12 @@ seaborn
 jupyter
 plotly
 nbformat
+hmmlearn
 ```
 
 Note that by installing jupyter inside your conda environment, your jupyter notebooks kernel should be able to access all of your python packages. Alternatively, you can install your conda environment as a specific kernel for jupyter to use, as below.
 
-#### Accessing your conda environment from a jupyter notebook
+### Accessing your conda environment from a jupyter notebook
 
 1. Install ipykernal:
 
@@ -78,6 +85,24 @@ python -m ipykernel install --user --name=tech-frontiers
 
 ![select kernel](img/select_jupyter_kernel.png "Change Kernel")
 
+
+### Checking your environment
+
+We have provided a jupyter notebook here to test your environment. Once you've downloaded the notebook (You may need to click `raw` on the linked page), you can launch jupyter by navigating in the terminal to the directory with the notebook in it. E.g.:
+
+```bash
+cd ~/tech-frontiers
+```
+
+Then, simply type the command
+
+```bash
+jupyter notebook
+```
+
+This will launch an interface in your browser like this
+
+![select kernel](img/jupyter_homepage.png "Notebooks Home")
 
 ## Data Science Course
 
