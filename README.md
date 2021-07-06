@@ -88,7 +88,7 @@ python -m ipykernel install --user --name=tech-frontiers
 
 ### Checking your environment
 
-We have provided a jupyter notebook here to test your environment. Once you've downloaded the notebook (You may need to click `raw` on the linked page), you can launch jupyter by navigating in the terminal to the directory with the notebook in it. E.g.:
+We have provided a jupyter notebook [here](notebooks/import.ipynb) to test your environment. Once you've downloaded the notebook (You may need to click `raw` on the linked page), you can launch jupyter by navigating in the terminal to the directory with the notebook in it. E.g.:
 
 ```bash
 cd ~/tech-frontiers
@@ -100,9 +100,11 @@ Then, simply type the command
 jupyter notebook
 ```
 
-This will launch an interface in your browser like this
+This will launch an interface in your browser similar to below
 
 ![select kernel](img/jupyter_homepage.png "Notebooks Home")
+
+Simply `Run` the notebook, and if you get no error messages - your environment is working!
 
 ## Data Science Course
 
