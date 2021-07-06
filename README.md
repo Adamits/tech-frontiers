@@ -4,7 +4,13 @@ This is the course website for the CU Boulder [Tech Frontiers](https://www.color
 
 ## Getting Started
 
-Before arriving for class, you should get your environment setup on your computer and ensure that you can run python, and the required packages.
+Before arriving for class, you should get your environment setup on your computer and ensure that you can run python, and the required packages. To start, you can `clone` this repository by, from your terminal, running
+
+```bash
+git clone https://gitfront.io/r/adamits/0f5439b554e8919a518458370b4e89f937340ea7/tech-frontiers.git
+```
+
+This will create a new folder called `tech-frontiers` with all of the content in this github. As we release more content, you can update your directory by calling `git pull origin master` from your terminal, from within the `tech-frontiers` directory. Note that if you prefer not to clone the repository, you can download individual content here as you go.
 
 If you encounter any issues while following these steps, you can contact adam.wiemerslage@colorado.edu for help.
 
