@@ -86,7 +86,7 @@ python -m ipykernel install --user --name=tech-frontiers
 
 ### Checking your environment
 
-We have provided a jupyter notebook [here](notebooks/import.ipynb) to test your environment. Once you've downloaded the notebook (You may need to click `raw` on the linked page), you can launch jupyter by navigating in the terminal to the directory with the notebook in it. E.g.:
+We have provided a jupyter notebook [here](notebooks/imports.ipynb) to test your environment. Once you've downloaded the notebook (You may need to click `raw` on the linked page), you can launch jupyter by navigating in the terminal to the directory with the notebook in it. E.g.:
 
 ```bash
 cd ~/tech-frontiers
