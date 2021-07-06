@@ -4,10 +4,10 @@
 
 Now that you have installed anaconda and are able to create and open jupyter notebooks, you can view the Pre-Module content to get comfortable with using Python and some of the packages we will leverage throughout the course.
 
-Part 1 Video
-Part 2 Video
-Part 3 Video
-[Part 3 Data (testScores.csv)](testScores.csv)****
+* Part 1 Video
+* Part 2 Video
+* Part 3 Video
+* [Part 3 Data (testScores.csv)](testScores.csv)
 
 You can follow through the build up of some basic coding commands in the slides, these commands are written directly in the jupyter notebook. To run the jupyter notebook, start at the top and press the "Run" button or SHIFT + ENTER to compile each cell successively. You will need to have the file testScores.csv file in the same folder as premodule.ipynb.
 
