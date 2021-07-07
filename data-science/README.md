@@ -5,6 +5,8 @@ Now that you have installed anaconda and are able to create and open jupyter not
 
 ## Schedule
 
+All times are given in MDT (Denver/Mountain Time)
+
 ### Day 1
 |               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|

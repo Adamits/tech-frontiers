@@ -14,6 +14,7 @@ You can follow through the build up of some basic coding commands in the slides,
 You can also go ahead and download the course Pre-Module materials, including the code generated: [slides](0-Python1Hour.pptx); [notebook](PythonHour.ipynb).
 
 ## Schedule
+All times are given in MDT (Denver/Mountain Time)
 
 ### Day 1
 |               | Date  | Time| Content| Links |
