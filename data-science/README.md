@@ -9,7 +9,7 @@ Now that you have installed anaconda and are able to create and open jupyter not
 
 You can follow through the build up of some basic coding commands in the slides, these commands are written directly in the jupyter notebook. To run the jupyter notebook, start at the top and press the "Run" button or SHIFT + ENTER to compile each cell successively. You will need to have the file testScores.csv file in the same folder as premodule.ipynb.
 
-Course Pre-Module materials including the generated code are available here: [slides](premodule_slides.pdf); [notebook](premodule.ipynb) 
+Course Pre-Module materials including the generated code are available here: [slides](premodule_slides.pdf); [notebook](premodule.ipynb)
 
 ## Schedule
 
@@ -37,7 +37,7 @@ All times are given in MDT (Denver/Mountain Time)
 | Morning Coffee| 7/13 | 8:30-9AM      | |  |
 | Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | [notebook](module4_clustering.ipynb); [solutions](module4_clustering_solns.ipynb) |
 | Morning Break | 7/13 | 10:30-10:45AM |  |  |
-| Module 5      | 7/13 | 10:45-12:15PM | **Linear and Logistic Regression Methods** | |
+| Module 5      | 7/13 | 10:45-12:15PM | **Linear Regression Methods** | |
 | Lunch         | 7/13 | 12:15-1:15PM  |     |  |
 | Project       | 7/13 | 1:15-4PM      |   **Group work on course project** |  |
 | Presentations | 7/13 | 4-4:30PM      |    **Project Presentations and Discussion** |  |
