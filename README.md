@@ -13,11 +13,14 @@ To start, you can `clone` this repository by, from your terminal, running
 ```bash
 git clone https://gitfront.io/r/adamits/0f5439b554e8919a518458370b4e89f937340ea7/tech-frontiers.git
 ```
+If you do not have git installed, you can install it by following the instructions [in the section below](#install-git)
 
 This will create a new folder called `tech-frontiers` with all of the content in this github. As we release more content, you can update your directory by calling `git pull origin master` from your terminal, from within the `tech-frontiers` directory. Note that if you prefer not to clone the repository, you can download individual content here as you go.
 
 If you encounter any issues while following these steps, you can contact adam.wiemerslage@colorado.edu for help.
 
+### Install Git
+Installation instructions for git are [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). If the `git clone` command does not work, you may need to install git. Alternatively, you do not need to clone the repository, and can simply download individual pages from the website as you go.
 
 ### Install anaconda
 Anaconda is the package manager we will be using to download our python packages. Note that installing anaconda should also install python. When you activate the anaconda environment, you should have access to the python version installed with it. In order to install anaconda follow the links below.
@@ -27,6 +30,8 @@ The links include optional instructions for pycharm users. If you do not use the
  - For **Windows** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/windows/).
  - For **macOS** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/mac-os/). If you do not have permission to install in the default directory, your user's home directory should work fine.
  - For **Linux** users, follow instructions [here](https://docs.anaconda.com/anaconda/install/linux/)
+
+ For windows users, you may need to use the `Anaconda Prompt` instead. This is a program that should be installed after following the above instructions. More information on this [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/#open-prompt-win).
 
 ### Install python packages
 Our instructions assume that you are using anaconda from the terminal (or windows command line).
