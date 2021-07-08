@@ -3,16 +3,16 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _pytorch_select=0.1=cpu_0
-  - matplotlib=3.3.4=py39hecd8cb5_0
-  - numpy=1.19.2=py39he57783f_0
-  - pandas=1.2.4=py39h23ab428_0
-  - pytorch=1.7.1=cpu_py39h7e2095a_0
-  - scikit-learn=0.24.2=py39hb2f4e1b_0
-  - scipy=1.6.2=py39h2515648_0
-  - seaborn=0.11.1=pyhd3eb1b0_0
+  - _pytorch_select
+  - matplotlib
+  - numpy
+  - pandas
+  - pytorch
+  - scikit-learn
+  - scipy
+  - seaborn
   - plotly
   - nbformat
-  - jupyter_client=5.3.3=py_0
-  - jupyter_core=4.5.0=py_0
-  - hmmlearn=0.2.4=py39hbaf7cf3_2
+  - jupyter_client
+  - jupyter_core
+  - hmmlearn
