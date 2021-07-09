@@ -39,6 +39,6 @@ All times are given in MDT (Denver/Mountain Time)
 | Morning Break | 7/13 | 10:30-10:45AM |  |  |
 | Module 5      | 7/13 | 10:45-12:15PM | **Linear Regression Methods** | |
 | Lunch         | 7/13 | 12:15-1:15PM  |     |  |
-| Project       | 7/13 | 1:15-4PM      |   **Group work on course project** |  |
+| Project       | 7/13 | 1:15-4PM      |   **Group Work on Course Project** |  |
 | Presentations | 7/13 | 4-4:30PM      |    **Project Presentations and Discussion** |  |
 | Wrap up       | 7/13 | 4:30-5PM      |   **Final thoughts and Questions** |  |
