@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyterlab
   - _pytorch_select
   - matplotlib
   - numpy
@@ -13,6 +14,4 @@ dependencies:
   - seaborn
   - plotly
   - nbformat
-  - jupyter_client
-  - jupyter_core
   - hmmlearn

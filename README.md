@@ -31,7 +31,8 @@ The links include optional instructions for pycharm users. If you do not use the
  - For **macOS** users you can follow the guide [here](https://docs.anaconda.com/anaconda/install/mac-os/). If you do not have permission to install in the default directory, your user's home directory should work fine.
  - For **Linux** users, follow instructions [here](https://docs.anaconda.com/anaconda/install/linux/)
 
- For windows users, you may need to use the `Anaconda Prompt` instead. This is a program that should be installed after following the above instructions. More information on this [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/#open-prompt-win).
+
+ **IMPORTANT For windows users**, you may need to use the `Anaconda Prompt` instead of the command line. This is a program that should be installed after following the above instructions. More information on this [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/#open-prompt-win), but you can find it in your list of applications, and use that for the remainder of the instructions.
 
 ### Install python packages
 Our instructions assume that you are using anaconda from the terminal (or windows command line).
