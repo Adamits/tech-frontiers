@@ -20,11 +20,11 @@ All times are given in MDT (Denver/Mountain Time)
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/12 | 8:30-9AM | | |
 | Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [intro slides](module0_dsoverview_slides.pdf)|
-| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | |
+| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [notebook](module1_python_basics.ipynb) |
 | Morning Break | 7/12 | 10:30-10:45AM   |  |  |
-| Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | |
+| Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | [notebook 1](module2_numpy_pandas_pt1.ipynb); [notebook 2](module2_numpy_pandas_pt2.ipynb) |
 | Lunch         | 7/12 | 12:15-1:15PM |     |  |
-| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb); [solutions](module3_data_visualization_solns.ipynb) |
+| Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb) |
 | Afternoon Break | 7/12 | 3:15-3:30AM   |  |  |
 | Ethics        | 7/12 | 3:30-4:30PM      |    **Ethical Issues in Data Science** |  |
 | Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** |  |
@@ -35,9 +35,9 @@ All times are given in MDT (Denver/Mountain Time)
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/13 | 8:30-9AM      | |  |
-| Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | [notebook](module4_clustering.ipynb); [solutions](module4_clustering_solns.ipynb) |
+| Module 4      | 7/13 | 9-10:30AM     | **Clustering Using the K-means Method** | [notebook](module4_clustering.ipynb) |
 | Morning Break | 7/13 | 10:30-10:45AM |  |  |
-| Module 5      | 7/13 | 10:45-12:15PM | **Linear Regression Methods** | |
+| Module 5      | 7/13 | 10:45-12:15PM | **Linear Regression Methods** | [notebook](module5_regression.ipynb) |
 | Lunch         | 7/13 | 12:15-1:15PM  |     |  |
 | Project       | 7/13 | 1:15-4PM      |   **Group Work on Course Project** |  |
 | Presentations | 7/13 | 4-4:30PM      |    **Project Presentations and Discussion** |  |
