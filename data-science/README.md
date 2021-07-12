@@ -20,9 +20,9 @@ All times are given in MDT (Denver/Mountain Time)
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/12 | 8:30-9AM | | |
 | Module 0      | 7/12 | 9-9:30AM | **Course Overview** | [intro slides](module0_dsoverview_slides.pdf)|
-| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [notebook](module1_python_basics.ipynb) |
+| Module 1      | 7/12 | 9:30-10:30AM | **Coding and Python Basics** | [notebook](module1_python_basics.ipynb); [solutions](solns/module1_python_basics_solns.ipynb) |
 | Morning Break | 7/12 | 10:30-10:45AM   |  |  |
-| Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | [notebook 1](module2_numpy_pandas_pt1.ipynb); [notebook 2](module2_numpy_pandas_pt2.ipynb) |
+| Module 2      | 7/12 | 10:45-12:15PM|**Fundamentals of Data Manipulation** | [notebook 1](module2_numpy_pandas_pt1.ipynb); [nb 1 solns](solns/module2_numpy_pandas_pt1_solns.ipynb); [notebook 2](module2_numpy_pandas_pt2.ipynb) |
 | Lunch         | 7/12 | 12:15-1:15PM |     |  |
 | Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb) |
 | Afternoon Break | 7/12 | 3:15-3:30AM   |  |  |
