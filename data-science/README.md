@@ -27,7 +27,7 @@ All times are given in MDT (Denver/Mountain Time)
 | Module 3      | 7/12 | 1:15-3:15PM      |   **Data Visualization** | [normal slides](module3_normal_slides.pdf); [notebook](module3_data_visualization.ipynb) |
 | Afternoon Break | 7/12 | 3:15-3:30AM   |  |  |
 | Ethics        | 7/12 | 3:30-4:30PM      |    **Ethical Issues in Data Science** |  |
-| Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** |  |
+| Review        | 7/12 | 4:30-5PM     |   **Questions and Project Planning** | [project slides](project_overview.pdf) |
 | AI Institute  | 7/12 | 5-5:30PM     | **Information on CU Boulder's AI Institute** |  |
 | Reception     | 7/12 | 5:30-6:30PM     |  |  |
 
