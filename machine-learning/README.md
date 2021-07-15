@@ -19,12 +19,12 @@ All times are given in MDT (Denver/Mountain Time)
 ### Day 1
 |               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
-| Morning Coffee| 7/15 | 8:30-9AM | | [fake link](#)|
-| Module 1      | 7/15 | 9-10:30AM | **Introduction And Probability Theory** | |
+| Morning Coffee| 7/15 | 8:30-9AM | | |
+| Module 1      | 7/15 | 9-10:30AM | **Introduction And Probability Theory** | [Introduction](Day1/1-Introduction) |
 | Morning Break | 7/15 | 10:30-10:45AM   |  |  |
-| Module 2      | 7/15 | 10:45-12:15PM|**Non-parametric Machine Learning** | |
+| Module 2      | 7/15 | 10:45-12:15PM|**Non-parametric Machine Learning** | | [NonParametric](Day1/2-NonParametric) |
 | Lunch         | 7/15 | 12:15-1:15PM |     |  |
-| Module 3      | 7/15 | 1:15-3:15PM      |   **Linear Models for Classification** |  |
+| Module 3      | 7/15 | 1:15-3:15PM      |   **Linear Models for Classification** |  [Parametric](Day1/3-Parametric)|
 | Afternoon Break      | 7/15 | 3:15-3:30PM      |  |  |
 | Ethics        | 7/15 | 3:30-4:30PM      |    **Ethics in Machine Learning** |  |
 | Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** |  |
