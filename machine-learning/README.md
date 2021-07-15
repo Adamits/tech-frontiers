@@ -27,7 +27,7 @@ All times are given in MDT (Denver/Mountain Time)
 | Module 3      | 7/15 | 1:15-3:15PM      |   **Linear Models for Classification** |  [Exercise 1 WB](Day1/3-Parametric/3_1-RegressionB/3_1-RegressionB_Workbook.ipynb) - [Exercise 2 WB](Day1/3-Parametric/3_2-LogReg/3_2-LogisticRegression_Workbook.ipynb) - [Exercise 2 Data](Day1/3-Parametric/3_2-LogReg/adult-dataset-full.csv) - [Exercise 3 WB](Day1/3-Parametric/3_3-SVM/3_3-SVM_Workbook.ipynb) - [Exercise 3 Data](Day1/3-Parametric/3_3-SVM/adult-num-full.csv) - [Powerpoint](Day1/3-Parametric/3-ParametricModels.pptx)|
 | Afternoon Break      | 7/15 | 3:15-3:30PM      |  |  |
 | Ethics        | 7/15 | 3:30-4:30PM      |    **Ethics in Machine Learning** |  |
-| Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** | [Project Home](https://www.kaggle.com/c/techfrontiers2021) - [Project Base]() |
+| Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** | [Project Home](https://www.kaggle.com/c/techfrontiers2021) - [Project Base](6-FinalProject) |
 | AI Institute  | 7/15 | 5-5:30PM     | **Information on CU Boulder's AI Institute** |  |
 | Reception     | 7/15 | 5:30-6:30PM  |  |  |
 
