@@ -35,9 +35,9 @@ All times are given in MDT (Denver/Mountain Time)
 |               | Data  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
 | Morning Coffee| 7/16 | 8:30-9AM      | | |
-| Module 4      | 7/16 | 9-10:30AM     | **Classification of Sequential Data** | |
+| Module 4      | 7/16 | 9-10:30AM     | **Classification of Sequential Data** | [Powerpoint](Day2/Module4.pptx) - [Exercise](Day2/module5.ipynb) |
 | Morning Break | 7/16 | 10:30-10:45AM |  |  |
-| Module 5      | 7/16 | 10:45-12:15PM | **Introduction to Deep Learning** | |
+| Module 5      | 7/16 | 10:45-12:15PM | **Introduction to Deep Learning** | [Powerpoint](Day2/Module5.pptx) - [Exercise 1](Day2/module4_part1.ipynb) - [Exercise 2](Day2/module4_part2.ipynb) |
 | Lunch         | 7/16 | 12:15-1:15PM  |     |  |
 | Project       | 7/16 | 1:15-3:45PM      |   **Group work on course project** |  |
 | Presentations | 7/16 | 3:45-4:45PM      |    **Project Presentations** |  |
