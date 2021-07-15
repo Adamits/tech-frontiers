@@ -19,15 +19,15 @@ All times are given in MDT (Denver/Mountain Time)
 ### Day 1
 |               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
-| Morning Coffee| 7/15 | 8:30-9AM | | |
-| Module 1      | 7/15 | 9-10:30AM | **Introduction And Probability Theory** | [Introduction](Day1/1-Introduction) |
+| Morning Coffee| 7/15 | 8:30-9AM | | [fake link](#)|
+| Module 1      | 7/15 | 9-10:30AM | **Introduction And Probability Theory** | [Exercise 1 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/1-Introduction/1_1-KNN/1_1-KNN_Workbook.ipynb) - [Exercise 1 Data](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/1-Introduction/1_1-KNN/adult-num-full.csv) - [Exercise 2](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/1-Introduction/1_2-NB/1_2-NB_Workbook.ipynb) - [Exercise 2 Data](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/1-Introduction/1_2-NB/adult-categ-full.csv) - [Powerpoint](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/1-Introduction/1-IntroductionAndProbabilityTheory.pptx) |
 | Morning Break | 7/15 | 10:30-10:45AM   |  |  |
-| Module 2      | 7/15 | 10:45-12:15PM|**Non-parametric Machine Learning** | | [NonParametric](Day1/2-NonParametric) |
+| Module 2      | 7/15 | 10:45-12:15PM|**Non-parametric Machine Learning** | [Exercise 1 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/2-NonParametric/2_1-Trees/2_1-TressAndForests_Workbook.ipynb) - [Exercise 1 Data](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/2-NonParametric/2_1-Trees/adult-dataset-full.csv) - [Exercise 2 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/2-NonParametric/2_2-RegressionA/2_2-RegressionA_Workbook.ipynb) - [Powerpoint](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/2-NonParametric/2-NonParametricModels.pptx) |
 | Lunch         | 7/15 | 12:15-1:15PM |     |  |
-| Module 3      | 7/15 | 1:15-3:15PM      |   **Linear Models for Classification** |  [Parametric](Day1/3-Parametric)|
+| Module 3      | 7/15 | 1:15-3:15PM      |   **Linear Models for Classification** |  [Exercise 1 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3_1-RegressionB/3_1-RegressionB_Workbook.ipynb) - [Exercise 2 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3_2-LogReg/3_2-LogisticRegression_Workbook.ipynb) - [Exercise 2 Data](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3_2-LogReg/adult-dataset-full.csv) - [Exercise 3 WB](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3_3-SVM/3_3-SVM_Workbook.ipynb) - [Exercise 3 Data](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3_3-SVM/adult-num-full.csv) - [Powerpoint](https://github.com/Adamits/tech-frontiers/blob/main/machine-learning/Day1/3-Parametric/3-ParametricModels.pptx)|
 | Afternoon Break      | 7/15 | 3:15-3:30PM      |  |  |
 | Ethics        | 7/15 | 3:30-4:30PM      |    **Ethics in Machine Learning** |  |
-| Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** |  |
+| Review        | 7/15 | 4:30-5PM     |   **Questions and Project Planning** | [Project Home](https://www.kaggle.com/c/techfrontiers2021) - [Project Base]() |
 | AI Institute  | 7/15 | 5-5:30PM     | **Information on CU Boulder's AI Institute** |  |
 | Reception     | 7/15 | 5:30-6:30PM  |  |  |
 
