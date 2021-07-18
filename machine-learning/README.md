@@ -16,6 +16,8 @@ You can also go ahead and download the course Pre-Module materials, including th
 ## Schedule
 All times are given in MDT (Denver/Mountain Time)
 
+Video recordings for all machine learning lectures are available [here](https://drive.google.com/drive/u/1/folders/1KZoRvAefQ7cKSh-7O8DPMuGMSGFbq0zQ)
+
 ### Day 1
 |               | Date  | Time| Content| Links |
 | ------------- |------|-------| -----|-------|
